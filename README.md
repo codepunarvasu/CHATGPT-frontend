@@ -1,4 +1,4 @@
-# ChatGPT Clone
+# ChatGPT Frontend
 
 A ChatGPT-style chat interface built with plain HTML, CSS and JavaScript. No frameworks, no build step.
 submitted by KanaK Krishnani 
