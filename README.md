@@ -2,7 +2,7 @@
 
 A ChatGPT-style chat interface built with plain HTML, CSS and JavaScript. No frameworks, no build step.
 
-**Live demo:** https://YOUR-USERNAME.github.io/chatgpt-clone/
+**Live demo:** https://codepunarvasu.github.io/CHATGPT-frontend/
 
 ## Features
 
